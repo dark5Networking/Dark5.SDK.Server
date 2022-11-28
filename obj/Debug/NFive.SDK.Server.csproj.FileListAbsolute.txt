@@ -1,0 +1,4 @@
+C:\Users\Karim\Downloads\SDK.Server-master\SDK.Server-master\bin\Debug\NFive.SDK.Server.net.dll
+C:\Users\Karim\Downloads\SDK.Server-master\SDK.Server-master\obj\Debug\NFive.SDK.Server.csproj.AssemblyReference.cache
+C:\Users\Karim\Downloads\SDK.Server-master\SDK.Server-master\obj\Debug\NFive.SDK.Server.csproj.CoreCompileInputs.cache
+C:\Users\Karim\Downloads\SDK.Server-master\SDK.Server-master\obj\Debug\NFive.SDK.Server.net.dll

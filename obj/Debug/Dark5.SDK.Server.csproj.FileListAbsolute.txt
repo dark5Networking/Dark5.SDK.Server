@@ -1,0 +1,12 @@
+C:\Users\Karim\Downloads\SDK.Server-master\SDK.Server-master\obj\Debug\Dark5.SDK.Server.csproj.CoreCompileInputs.cache
+C:\Users\Karim\Downloads\SDK.Server-master\SDK.Server-master\bin\Debug\Dark5.SDK.Server.net.dll
+C:\Users\Karim\Downloads\SDK.Server-master\SDK.Server-master\obj\Debug\Dark5.SDK.Server.net.dll
+D:\Dark5Project2023_Master\Dark5Network-master-GTA5\Dark5.SDK.Server-master\obj\Debug\Dark5.SDK.Server.csproj.CoreCompileInputs.cache
+D:\Dark5Project2023_Master\Dark5Network-master-GTA5\Dark5.SDK.Server-master\bin\Debug\Dark5.SDK.Server.net.dll
+D:\Dark5Project2023_Master\Dark5Network-master-GTA5\Dark5.SDK.Server-master\bin\Debug\Dark5.SDK.Core.net.dll
+D:\Dark5Project2023_Master\Dark5Network-master-GTA5\Dark5.SDK.Server-master\bin\Debug\MySql.Data.dll
+D:\Dark5Project2023_Master\Dark5Network-master-GTA5\Dark5.SDK.Server-master\bin\Debug\MySql.Data.EntityFramework.dll
+D:\Dark5Project2023_Master\Dark5Network-master-GTA5\Dark5.SDK.Server-master\bin\Debug\ZstdNet.dll
+D:\Dark5Project2023_Master\Dark5Network-master-GTA5\Dark5.SDK.Server-master\obj\Debug\Dark5.SDK.Server.csproj.AssemblyReference.cache
+D:\Dark5Project2023_Master\Dark5Network-master-GTA5\Dark5.SDK.Server-master\obj\Debug\Dark5.SDK.Server.csproj.CopyComplete
+D:\Dark5Project2023_Master\Dark5Network-master-GTA5\Dark5.SDK.Server-master\obj\Debug\Dark5.SDK.Server.net.dll
